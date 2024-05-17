@@ -1,5 +1,4 @@
-# T-pot
-
+# Sentinal SIEM
 ## Objective
 
 The Sentinal SIEM project aimed to establish a controlled environment within Azure for attracting and detecting cyber attacks. The primary focus was to ingest and analyze logs using microsoft Sentinal. The Honeypot gathers test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
@@ -17,7 +16,7 @@ The Sentinal SIEM project aimed to establish a controlled environment within Azu
 [Bullet Points - Remove this afterwards]
 
 - Windows 10 vm
-- Azure Cloud services: Powershell, Firewall Manager
+- Azure Cloud services: Powershell, Firewall Manager, Log Analytics Workspace, Microsoft Defender for Cloud
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
