@@ -25,6 +25,14 @@ Using Azure portal create a Virtual machine and security group: <br/>
 <img src="https://i.imgur.com/d24l9xF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Define that the security group has all protocols/ports open and is properly labeled with: DANGER_ALL_IN  
+
+Define that the security group has all protocols/ports open and is properly labeled with: DANGER_ALL_IN
+This will allow all traffic into the honeypot so we can collect telemetry.
 <img src="https://i.imgur.com/pIMjdDr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
+
+Next we go to the log analytics to create a workspace to ingest logs from our honeypot. Data ingested is the windows event logs.
+Here we create the custom log that will contain geographic information to allow us to know where the attack originated from.
+<img src="https://i.imgur.com/mMySFQ2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+
