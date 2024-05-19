@@ -80,3 +80,6 @@ Map with IP addresses and lattitude/longitude with number of failed rdp attempts
 
 <img src="https://i.imgur.com/HlPdNrI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
+
+<img src="https://i.imgur.com/ghNscGX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
