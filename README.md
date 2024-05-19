@@ -43,6 +43,7 @@ Add Microsoft Defender for Cloud to the correct subscription and VM
 <br />
 
 Enable all events
+
 <img src="https://i.imgur.com/VCg3RuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
