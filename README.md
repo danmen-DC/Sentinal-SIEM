@@ -29,7 +29,7 @@ Using Azure portal create a Virtual machine and security group: <br/>
 Define that the security group has all protocols/ports open and is properly labeled with: DANGER_ALL_IN
 This will allow all traffic into the honeypot so we can collect telemetry.
 
-<img src="https://i.imgur.com/pIMjdDr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pIMjdDr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 
 Next we go to the log analytics to create a workspace to ingest logs from our honeypot. Data ingested is the windows event logs.
