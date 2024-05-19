@@ -53,7 +53,17 @@ Connect the VM to the custom log created within log analytics
 <img src="https://i.imgur.com/ybFJUGj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
+Add Microsoft Sentinal 
+
+Connect to honeypot, disable firewall in all profiles
+
+<img src="https://i.imgur.com/q6j7bmC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
 
 
-<img src="https://i.imgur.com/mMySFQ2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/q6j7bmC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+
+<img src="https://i.imgur.com/q6j7bmC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
