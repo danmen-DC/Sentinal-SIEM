@@ -71,7 +71,7 @@ Create table withing azure portal in log analytics work space. Add sample data g
 <img src="https://i.imgur.com/pT7NkjX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
+In Sentinal add workbook with add query script to select failed rdp attempts
 
-
-<img src="https://i.imgur.com/jtPNjog.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UTqPUy5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
