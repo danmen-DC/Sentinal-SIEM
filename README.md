@@ -32,7 +32,8 @@ This will allow all traffic into the honeypot so we can collect telemetry.
 <img src="https://i.imgur.com/pIMjdDr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 
-Navagate to the log analytics to create a workspace to ingest logs from the honeypot. Data ingested is the windows event logs.
+Navagate to the log analytics to create a workspace to ingest logs from the honeypot. 
+Data ingested is the windows event logs.
 Custom log will contain geographic information to show where the attack originated from.
 <img src="https://i.imgur.com/mMySFQ2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
