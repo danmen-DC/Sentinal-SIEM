@@ -38,10 +38,11 @@ Custom log will contain geographic information to show where the attack originat
 <br />
 
 
-Add Microsoft Defender for Cloud to the correct subscription and VM. It defines that all data needs to be collected.
+Add Microsoft Defender for Cloud to the correct subscription and VM
 <img src="https://i.imgur.com/3iy8oBF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+Enable all events
 <img src="https://i.imgur.com/VCg3RuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
