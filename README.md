@@ -21,8 +21,8 @@ The Sentinal SIEM project aimed to establish a controlled environment within Azu
 
 ## Steps
 
-Using Azure portal create a Virtual machine and security group: <br/>
-<img src="https://i.imgur.com/d24l9xF.png" height="80%" width="80%" alt="Sentinal SIEM"/>
+Use Azure portal create a Virtual machine and security group: <br/>
+<img src="https://i.imgur.com/d24l9xF.png" height="80%" width="80%" alt="Sentinal SIEM Steps"/>
 <br />
 
 
@@ -32,12 +32,12 @@ This will allow all traffic into the honeypot so we can collect telemetry.
 <img src="https://i.imgur.com/pIMjdDr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 
-Next we go to the log analytics to create a workspace to ingest logs from our honeypot. Data ingested is the windows event logs.
-Here we create the custom log that will contain geographic information to allow us to know where the attack originated from.
+Navagate to the log analytics to create a workspace to ingest logs from the honeypot. Data ingested is the windows event logs.
+Custom log will contain geographic information to show where the attack originated from.
 <img src="https://i.imgur.com/mMySFQ2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
-Add Microsoft Defender for Cloud to the correct subscription and VM. Here is where we define that all data needs to be collected.
+Add Microsoft Defender for Cloud to the correct subscription and VM. It defines that all data needs to be collected.
 <img src="https://i.imgur.com/3iy8oBF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="https://i.imgur.com/VCg3RuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
