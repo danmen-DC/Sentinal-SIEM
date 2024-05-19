@@ -26,5 +26,5 @@ Using Azure portal create a Virtual machine and security group: <br/>
 <br />
 
 Define that the security group has all protocols/ports open and is properly labeled with: DANGER_ALL_IN  
-<img src="https://i.imgur.com/aIySPir.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pIMjdDr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
