@@ -57,7 +57,7 @@ Add Microsoft Sentinal
 
 Connect to honeypot, disable firewall in all profiles
 
-<img src="https://i.imgur.com/q6j7bmC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q6j7bmC.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 
 
