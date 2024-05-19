@@ -55,14 +55,14 @@ Connect the VM to the custom log created within log analytics
 
 Add Microsoft Sentinal 
 
-Connect to honeypot, disable firewall in all profiles
+Connect to honeypot vm. Disable firewall in all profiles
 
 <img src="https://i.imgur.com/q6j7bmC.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 
+open powershell on honeypot add and save script to desktop
 
-
-<img src="https://i.imgur.com/q6j7bmC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lsSTQHn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
 <img src="https://i.imgur.com/q6j7bmC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
