@@ -22,7 +22,7 @@ The Sentinal SIEM project aimed to establish a controlled environment within Azu
 ## Steps
 
 Using Azure portal create a Virtual machine and security group: <br/>
-<img src="https://i.imgur.com/d24l9xF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d24l9xF.png" height="80%" width="80%" alt="Sentinal SIEM"/>
 <br />
 
 
