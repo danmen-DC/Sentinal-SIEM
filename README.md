@@ -31,9 +31,9 @@ Define that the security group has all protocols/ports open and is properly labe
 <img src="https://i.imgur.com/pIMjdDr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 
-Navagate to the log analytics to create a workspace to ingest logs from the honeypot. 
-Data ingested is the windows event logs.
-Custom log will contain geographic information to show where the attack originated from.
+Navagate to the log analytics to create a workspace to ingest logs from the honeypot
+Data ingested is the windows event logs
+Custom log will contain geographic information to show where the attack originated from
 
 <img src="https://i.imgur.com/mMySFQ2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
@@ -65,8 +65,9 @@ open powershell ise honeypot add script
 <img src="https://i.imgur.com/lsSTQHn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
-Generate api key from geolocation.io add to script
+Generate api key from geolocation.io add then run persistant script
 
+Create table withing azure portal in log analytics work space Point
 <img src="https://i.imgur.com/jtPNjog.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
