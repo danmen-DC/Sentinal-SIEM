@@ -45,7 +45,7 @@ Add Microsoft Defender for Cloud to the correct subscription and VM. Here is whe
 
 Connect the VM to the custom log created within log analytics 
 
-<img src="blob:https://imgur.com/a51258e3-302a-45fb-afd3-1d2ef8c27fee" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ybFJUGj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
 
