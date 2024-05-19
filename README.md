@@ -52,14 +52,13 @@ Connect the VM to the custom log created within log analytics
 <img src="https://i.imgur.com/ybFJUGj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
-Add Microsoft Sentinal 
 
 Connect to honeypot vm. Disable firewall in all profiles
 
 <img src="https://i.imgur.com/q6j7bmC.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 
-open powershell ise honeypot add script
+Open powershell ise honeypot add script
 
 <img src="https://i.imgur.com/lsSTQHn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
@@ -71,6 +70,7 @@ Create table withing azure portal in log analytics work space. Add sample data g
 <img src="https://i.imgur.com/pT7NkjX.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
+Add Microsoft Sentinal in the azure portal
 In Sentinal add workbook with add query script to select failed rdp attempts with map visualization
 
 <img src="https://i.imgur.com/UTqPUy5.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
