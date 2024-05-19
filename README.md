@@ -36,3 +36,15 @@ Here we create the custom log that will contain geographic information to allow 
 <img src="https://i.imgur.com/mMySFQ2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
+Add Microsoft Defender for Cloud to the correct subscription and VM. Here is where we define that all data needs to be collected.
+<img src="https://i.imgur.com/3iy8oBF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/VCg3RuY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
+<img src="https://i.imgur.com/mMySFQ2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/mMySFQ2.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
