@@ -60,10 +60,17 @@ Connect to honeypot vm. Disable firewall in all profiles
 <img src="https://i.imgur.com/q6j7bmC.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 
-open powershell on honeypot add and save script to desktop
+open powershell ise honeypot add script
 
 <img src="https://i.imgur.com/lsSTQHn.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
-<img src="https://i.imgur.com/q6j7bmC.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+Generate api key from geolocation.io add to script
+
+<img src="https://i.imgur.com/jtPNjog.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
+<img src="https://i.imgur.com/jtPNjog.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
